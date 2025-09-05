@@ -1,5 +1,102 @@
 [
-    {"UserId": 5061448193, "Username": "Player1"},
-    {"UserId": 9265244529, "Username": "Player2"},
-    {"UserId": 2684325394, "Username": "Player3"},
+  {
+    "UserId": 1001,
+    "Username": "UserAlpha",
+    "Reason": "Exploiting"
+  },
+  {
+    "UserId": 9332435419,
+    "Username": "GamerBeta",
+    "Reason": "you banned for abusing Iron hub"
+  },
+  {
+    "UserId": 1003,
+    "Username": "CreeperGamma",
+    "Reason": "Harassment"
+  },
+  {
+    "UserId": 1004,
+    "Username": "MegaDelta",
+    "Reason": "Using inappropriate language"
+  },
+  {
+    "UserId": 1005,
+    "Username": "StarEpsilon",
+    "Reason": "Glitching through walls"
+  },
+  {
+    "UserId": 1006,
+    "Username": "LavaZeta",
+    "Reason": "Unauthorized trading"
+  },
+  {
+    "UserId": 1007,
+    "Username": "ThunderEta",
+    "Reason": "Promoting scams"
+  },
+  {
+    "UserId": 1008,
+    "Username": "QuickTheta",
+    "Reason": "Impersonating staff"
+  },
+  {
+    "UserId": 1009,
+    "Username": "PixelIota",
+    "Reason": "Mass reporting"
+  },
+  {
+    "UserId": 1010,
+    "Username": "KnightKappa",
+    "Reason": "Using third-party software"
+  },
+  {
+    "UserId": 1011,
+    "Username": "ShadowLambda",
+    "Reason": "Creating a fake banlist"
+  },
+  {
+    "UserId": 1012,
+    "Username": "MysticMu",
+    "Reason": "Advertising other games"
+  },
+  {
+    "UserId": 1013,
+    "Username": "GalaxyNu",
+    "Reason": "Attempting to crash server"
+  },
+  {
+    "UserId": 1014,
+    "Username": "CosmicXi",
+    "Reason": "Racist remarks"
+  },
+  {
+    "UserId": 1015,
+    "Username": "HyperOmicron",
+    "Reason": "Abusing a bug for unfair advantage"
+  },
+  {
+    "UserId": 1016,
+    "Username": "QuantumPi",
+    "Reason": "Threats"
+  },
+  {
+    "UserId": 1017,
+    "Username": "VortexRho",
+    "Reason": "DDoS attacks"
+  },
+  {
+    "UserId": 1018,
+    "Username": "SonicSigma",
+    "Reason": "Selling in-game items for real money"
+  },
+  {
+    "UserId": 1019,
+    "Username": "FusionTau",
+    "Reason": "Refusing to follow admin instructions"
+  },
+  {
+    "UserId": 1020,
+    "Username": "NovaUpsilon",
+    "Reason": "Minor rule breaking"
+  }
 ]
